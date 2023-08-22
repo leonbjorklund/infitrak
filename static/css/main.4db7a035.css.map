@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4db7a035.css","mappings":"yGAEA,EACE,QAAS,CACT,SACF","sources":["App.css"],"sourcesContent":["@import url(\"https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@400;500;600&display=swap\");\n\n* {\n  margin: 0;\n  padding: 0;\n}\n"],"names":[],"sourceRoot":""}

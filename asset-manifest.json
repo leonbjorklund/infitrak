@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/infitrak/static/css/main.4db7a035.css",
+    "main.js": "/infitrak/static/js/main.d82398a3.js",
+    "static/media/backpackblue.png": "/infitrak/static/media/backpackblue.5e060259e06483447833.png",
+    "static/media/backpack.png": "/infitrak/static/media/backpack.0c1fd0334dfd48835775.png",
+    "static/media/visitkortgray.png": "/infitrak/static/media/visitkortgray.d2443a8e9cd32a2c744b.png",
+    "static/media/visitkortblue.png": "/infitrak/static/media/visitkortblue.3c8708d2ba535e1fbb86.png",
+    "static/media/bottlegray.png": "/infitrak/static/media/bottlegray.01cdc45a93235c53a7b4.png",
+    "static/media/bottleblue.png": "/infitrak/static/media/bottleblue.1b6edd31b5e7d351cb65.png",
+    "static/media/blueitem.png": "/infitrak/static/media/blueitem.fbe1622a31d83da69031.png",
+    "static/media/logo.PNG": "/infitrak/static/media/logo.d5ef435193bb23fe68c0.PNG",
+    "index.html": "/infitrak/index.html",
+    "main.4db7a035.css.map": "/infitrak/static/css/main.4db7a035.css.map",
+    "main.d82398a3.js.map": "/infitrak/static/js/main.d82398a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4db7a035.css",
+    "static/js/main.d82398a3.js"
+  ]
+}
